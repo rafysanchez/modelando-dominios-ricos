@@ -1,0 +1,1 @@
+# dominio rico model
